@@ -45,3 +45,9 @@ header {
     align-items: center;
     gap: 30px;
 }
+ /* Interact */
+.icon-resize {
+    width: 100px;
+    height: auto;
+    margin: 20px 25px 20px;
+}
