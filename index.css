@@ -28,3 +28,11 @@ header {
     height: auto;
     border-radius: 100px;
 }
+
+/* Post */
+.poster-flex {
+    margin: 25px 20px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
