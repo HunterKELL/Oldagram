@@ -56,3 +56,31 @@ header {
     height: auto;
     margin: 20px 25px 20px;
 }
+
+.heart-icon {
+    background-color: lightcoral;
+    box-shadow: 5px 5px 5px red;
+}
+
+.comment-icon {
+    background-color: lightblue;
+    box-shadow: 5px 5px 5px aquamarine;
+}
+
+.dm-icon {
+    background-color: lightgreen;
+    box-shadow: 5px 5px 5px yellowgreen;
+}
+
+.icon-button {
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 25px;
+    /*box-shadow: 10px 5px 5px blue;*/
+    transition: .3s ease-in-out;
+}
+
+.icon-button:hover {
+    transform: scale(1.1);
+    opacity: .7;
+}
