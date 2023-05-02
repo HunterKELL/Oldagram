@@ -7,6 +7,14 @@ html, body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+h1, h2, p {
+    font-size: 35px;
+}
+
+.bold-text {
+    font-weight: 900;
+}
+
 /* Header */
 header {
     padding: 30px 15px;
