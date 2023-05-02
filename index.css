@@ -45,6 +45,11 @@ header {
     align-items: center;
     gap: 30px;
 }
+
+.post-img img {
+    width: 100%;
+    height: auto;
+}
  /* Interact */
 .icon-resize {
     width: 100px;
