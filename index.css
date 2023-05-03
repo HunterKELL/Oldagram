@@ -1,10 +1,13 @@
 html, body {
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(225,251,63,1) 0%, rgba(70,239,252,1) 100%);
     margin: 0;
     padding: 0;
     font-family: 'Source Sans Pro', sans-serif;
 }
 
 .container {
+    background-color: white;
     width: 800px;
     margin: 0 auto;
     border-left: 2px solid grey;
@@ -13,7 +16,7 @@ html, body {
 }
 
 h1, h2, p {
-    font-size: 35px;
+    font-size: 25px;
 }
 
 .bold-text {
@@ -33,12 +36,12 @@ header {
 }
 
 .app-logo {
-    width: 380px;
+    width: 300px;
     height: auto;
 }
 
 .avatar-img {
-    width: 150px;
+    width: 100px;
     height: auto;
     border-radius: 100px;
 }
@@ -57,9 +60,9 @@ header {
 }
  /* Interact */
 .icon-resize {
-    width: 100px;
+    width: 50px;
     height: auto;
-    margin: 20px 25px 20px;
+    margin: 20px 15px 20px;
 }
 
 .heart-icon {
